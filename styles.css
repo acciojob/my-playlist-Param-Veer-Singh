@@ -1,1 +1,28 @@
+#hero{
+	background-color : rgb(204, 204, 204);
+    padding: 10px;
+}
+h1, h2, h3{
+	text-align : center;
+}
+li{
+	list-style-type : none;
+}
+a{
+	text-decoration-line : none;
+}
+.player_one, .player_two{
+    
+}
+#container{
+    width: 50%;
+	background-color : rgb(255, 255, 255); 
+	padding : 10px; 
+	border-radius : 10px;
+}
+#playlist{
+	background-color : rgb(255, 255, 255); 
+	padding : 10px; 
+	border-radius : 10px;
+}
 /*  your css code here. If applicable */
