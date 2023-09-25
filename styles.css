@@ -1,4 +1,4 @@
-#hero{
+body{
 	background-color : rgb(204, 204, 204);
     padding: 10px;
 }
@@ -11,11 +11,15 @@ li{
 a{
 	text-decoration-line : none;
 }
-.player_one, .player_two{
-    
+.player_one{
+	height:400px;
+}
+.player_one,.player_two{
+	width:600px;
+	background-color: rgb(255, 255, 255); 
 }
 #container{
-    width: 50%;
+    
 	background-color : rgb(255, 255, 255); 
 	padding : 10px; 
 	border-radius : 10px;
